@@ -9,7 +9,7 @@
 ## Execution limits
 
 | Task | Name | Time limit | Memory limit | Type | Files | Tokens |
-| --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | Tutorial | Tutorial | 1 second | 100 MiB | Batch |Tutorial[.c] | Yes |
 | IncreasingStuff | IncreasingStuff | 17 seconds |4 MiB | Batch | IncreasingStuff[.c] | Yes |
 | FancyLoops | FancyLoops | 20 seconds | 1 MiB | Batch | FancyLoops[.c] | Yes |
